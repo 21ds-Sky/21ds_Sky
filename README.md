@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ds-Sky21
+- 👋 Hi, I’m @21ds_sky
 - 👀 I’m interested in Artifical intelligences 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on various project related fianace,banking,healtcare,education etc
