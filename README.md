@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @21ds_sky
-- 👀 I’m interested in Artifical intelligences 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on various project related fianace,banking,healtcare,education etc
+- 👀 I’m interested in Artifical intelligences
+- 🌱 I’m am long life learner and possess master degree in Data Science
+- 💞️ I’m here looking to work on various project related fianace,banking,healtcare,education etc
 - 📫 How to reach me ...-sathvikyadav1718@gmail.com
 
 <!---
